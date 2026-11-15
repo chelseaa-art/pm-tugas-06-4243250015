@@ -27,15 +27,31 @@ Aplikasi memiliki 10 destinasi wisata, yaitu Danau Toba, Bukit Lawang, Berastagi
 
 ## D. Screenshot Aplikasi
 
-### Tampilan Ponsel
+### 1. Tampilan Ponsel (Mobile)
+
+**a. Halaman Katalog Destinasi Wisata**
+
+Menampilkan daftar 10 destinasi wisata Sumatera Utara dalam bentuk grid dengan dua kolom. Pengguna dapat memilih destinasi untuk melihat informasi lebih lanjut.
 
 ![Katalog Ponsel](screenshots/katalog-phone.png)
 
+**b. Halaman Detail Destinasi Wisata**
+
+Menampilkan informasi lengkap destinasi yang dipilih, meliputi nama tempat wisata, kategori, lokasi, deskripsi, dan informasi harga tiket.
+
 ![Detail Ponsel](screenshots/detail-phone.png)
 
-### Tampilan Tablet
+### 2. Tampilan Tablet
+
+**a. Halaman Katalog Destinasi Wisata**
+
+Menampilkan daftar destinasi wisata dengan tata letak grid yang menyesuaikan ukuran layar tablet serta menggunakan NavigationRail sebagai navigasi utama.
 
 ![Katalog Tablet](screenshots/katalog-tablet.png)
+
+**b. Halaman Detail Destinasi Wisata**
+
+Menampilkan informasi destinasi dengan tata letak horizontal, yaitu ikon atau ilustrasi destinasi di satu sisi dan informasi detail di sisi lainnya.
 
 ![Detail Tablet](screenshots/detail-tablet.png)
 
